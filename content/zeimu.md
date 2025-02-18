@@ -1,0 +1,10 @@
+# 税務署関連
+## 1月に税務署から届く資料
+- 確定申告のお知らせ
+    <img width="80%" src="../images/確定申告のお知らせ.jpg">
+- 納付書 : 所得税
+    <img width="80%" src="../images/納付書_所得税.jpg">
+- 納付書 : 消費税
+    <img width="80%" src="../images/納付書_消費税.jpg">
+    
+[「README」に戻る](../README.md#時期別のイベントリスト)
