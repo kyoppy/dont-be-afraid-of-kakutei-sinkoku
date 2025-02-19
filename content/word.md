@@ -45,6 +45,7 @@
     |2,450万円 ~ 2,500万円|16万円|
     |2,500万円 ~ |0円|
 - 法的根拠 : 所得税法86条
+- 参考サイト : [国税庁 基礎控除](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1199.htm)
 
 [「README」に戻る](../README.md#控除)
 
@@ -63,6 +64,6 @@
     |~48万円（給与収入103万円以下）|配偶者控除|
     |48万円超～133万円以下（給与収入103万円超～201.6万円以下）|配偶者特別控除|
     |133万円~（給与収入201.6万円超）|控除なし|
-
+- 参考サイト : [国税庁 配偶者控除](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1191.htm)
 
 [「README」に戻る](../README.md#控除)
