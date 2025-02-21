@@ -15,5 +15,6 @@
 
     <img width="80%" src="../images/控除証明書_社会保険料_国民年金.jpg">
 - 発行方法
+    - todo
 
 [「README」に戻る](../README.md#時期別のイベントリスト)
