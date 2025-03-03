@@ -1,4 +1,7 @@
-# freee会計
+<center>
+<img width="80%" src="../images/freee_logo.png">
+</center>
+
 ## freee会計とは?
 - 支出や収入に関する取引を管理するための会計システム
 - サブスクリプション契約で利用できる
