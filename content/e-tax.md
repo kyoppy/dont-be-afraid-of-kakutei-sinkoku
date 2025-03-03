@@ -1,4 +1,8 @@
-# e-Tax
+
+<center>
+<img width="80%" src="../images/e-tax_logo.png">
+</center>
+
 ## e-Taxとは?
 - 国税庁が管理する国税電子申請・納税システム
 - 所得税・法人税・消費税などの申告・申請・届出を行うためのもの
