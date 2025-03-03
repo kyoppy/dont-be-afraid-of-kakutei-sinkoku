@@ -1,6 +1,7 @@
 
 <center>
 <img width="80%" src="../images/furusato_logo.png">
+
 </center>
 
 ## ふるさと納税とは?
