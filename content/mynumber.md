@@ -1,6 +1,4 @@
-<center>
-<img width="80%" src="../images/mynumber_logo.png">
-</center>
+<img width="100%" src="../images/mynumber_logo.png">
 
 ## マイナンバーカードの電子申請ができるかを確認する方法
 - マイナンバーカードの右上の「電子証明書の有効期限」を確認する
