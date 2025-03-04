@@ -1,7 +1,5 @@
 
-<center>
-<img width="80%" src="../images/e-tax_logo.png">
-</center>
+<img width="100%" src="../images/e-tax_logo.png">
 
 ## e-Taxとは?
 - 国税庁が管理する国税電子申請・納税システム
