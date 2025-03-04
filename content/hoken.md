@@ -1,7 +1,5 @@
 
-<center>
-<img width="80%" src="../images/hoken_logo.png">
-</center>
+<img width="100%" src="../images/hoken_logo.png">
 
 # 国民健康保険または社会保険(任意継続)の場合
 ## 12月末に届く納付証明書
