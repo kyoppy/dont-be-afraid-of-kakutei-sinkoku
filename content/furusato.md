@@ -1,8 +1,9 @@
-
-<center>
-<img width="80%" src="../images/furusato_logo.png">
-
-</center>
+<picture width=100%>
+  <!-- ダークモード用 -->
+  <source srcset="../images/furusato_logo_dark.png" media="(prefers-color-scheme: dark)">
+  <!-- ライトモード用 -->
+  <img src="../images/furusato_logo_light.png" alt="Example image">
+</picture>
 
 ## ふるさと納税とは?
 - 住民税や所得税をふるさと納税で納税しているイメージ
@@ -30,3 +31,6 @@
 |[ふるなび](https://furunavi.jp/)|Amazonギフト券の還元キャンペーンなどを実施|
 |[au PAY ふるさと納税](https://furusato.wowma.jp/)|au PAYユーザーに特典あり|
 |[ふるさと本舗](https://furusatohonpo.jp/)|返礼品の還元率が高いものが多い|
+
+## その他の参考
+- トップ画像のイラスト提供 : [Loose Drawing](https://loosedrawing.com/)
