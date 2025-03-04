@@ -1,4 +1,5 @@
-# 控除
+<img width="100%" src="../images/kojo_logo.png">
+
 ## 基礎控除
 - 控除の種類 : 所得控除
 - 概要
