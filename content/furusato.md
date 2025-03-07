@@ -34,3 +34,5 @@
 
 ## その他の参考
 - トップ画像のイラスト提供 : [Loose Drawing](https://loosedrawing.com/)
+
+[「寄附金控除」に戻る](./kojo.md#寄附金控除)
