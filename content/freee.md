@@ -25,10 +25,12 @@
 ## freee会計で領収書の写真から登録する方法
 - 以下の2つの方法がある
     - freee会計のアプリから取り込む
-        - 参考サイト : [freee会計 iPhoneで取込](https://support.freee.co.jp/hc/ja/articles/360026335471--iOS-%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E9%A1%9E%E3%82%92%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E5%8F%96%E3%82%8A%E8%BE%BC%E3%82%80)
-        - 参考サイト : [freee会計 Androidで取込](https://support.freee.co.jp/hc/ja/articles/360001277503--Android-%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E9%A1%9E%E3%82%92%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E5%8F%96%E3%82%8A%E8%BE%BC%E3%82%80)
+        - 参考サイト
+          - [freee会計 iPhoneで取込](https://support.freee.co.jp/hc/ja/articles/360026335471--iOS-%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E9%A1%9E%E3%82%92%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E5%8F%96%E3%82%8A%E8%BE%BC%E3%82%80)
+          - [freee会計 Androidで取込](https://support.freee.co.jp/hc/ja/articles/360001277503--Android-%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E9%A1%9E%E3%82%92%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E5%8F%96%E3%82%8A%E8%BE%BC%E3%82%80)
     - LINEのfreee会計のアカウント経由で取り込む **オススメ**
-        - 参考サイト : [freee会計 LINEからレシート類をアップロードする](https://support.freee.co.jp/hc/ja/articles/24439979337625-LINE%E3%81%8B%E3%82%89%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E9%A1%9E%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B-%E9%80%A3%E6%90%BA%E3%82%A2%E3%83%97%E3%83%AA)
+        - 参考サイト
+          - [freee会計 LINEからレシート類をアップロードする](https://support.freee.co.jp/hc/ja/articles/24439979337625-LINE%E3%81%8B%E3%82%89%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E9%A1%9E%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B-%E9%80%A3%E6%90%BA%E3%82%A2%E3%83%97%E3%83%AA)
     - 注意点
         - 現金残高がマイナスにならないようにする
             - 対応方法の例
@@ -36,20 +38,34 @@
                     - 「口座」で、freee会計と連携している収入用の口座を選択
                     - 「勘定科目」を事業主借にする
 ## freee会計で優良な電子帳簿を有効にする方法
-- 参考サイト : [freee会計 優良な電子帳簿をONにする](https://support.freee.co.jp/hc/ja/articles/11680857183897-%E5%84%AA%E8%89%AF%E9%9B%BB%E5%AD%90%E5%B8%B3%E7%B0%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#h_01GFSYHBG0TC3BRH808ZVKD0K6)
+- 参考サイト
+  - [freee会計 優良な電子帳簿をONにする](https://support.freee.co.jp/hc/ja/articles/11680857183897-%E5%84%AA%E8%89%AF%E9%9B%BB%E5%AD%90%E5%B8%B3%E7%B0%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#h_01GFSYHBG0TC3BRH808ZVKD0K6)
 
 [「優良な電子帳簿」に戻る](./word.md#優良な電子帳簿)
 
 ## freee会計で確定申告用の資料を作成する方法
 1. 確定申告書の作成
     1. 確定申告 > 確定申告書類の作成をクリック
-    2. 基本情報を入力
-    3. 収支や申告内容を入力
-    4. 申告内容を確認
-    5. 書類を提出する
+    2. 「所得税申告書類の作成」をクリック
+    3. 基本情報を入力
+    4. 収支や申告内容を入力
+    5. 申告内容を確認
+    6. 書類を提出する
+        - freee会計からe-Tax経由で提出できます
 2. 消費税申告書の作成
-    - todo
-- 参考サイト : [freee会計で行う確定申告の流れ](https://support.freee.co.jp/hc/ja/articles/204087130-freee%E4%BC%9A%E8%A8%88%E3%81%A7%E8%A1%8C%E3%81%86%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A%E3%81%AE%E6%B5%81%E3%82%8C)
+    1. 確定申告 > 確定申告書類の作成をクリック
+    2. 「消費税申告書類の作成」をクリック
+    3. 消費税申告ライトの「申告書を作成」ボタンを栗生
+    4. 基本情報を入力
+    5. 申告内容の入力
+    6. 申告内容の確認
+    7. 書類を提出する
+- 補足
+  - freee会計からe-Tax経由でそれぞれの資料を提出できます
+    - 提出した資料をe-Taxで確認する方法 ([解説](./e-tax.md#提出した各書類の確認方法))
+- 参考サイト
+  - [freee会計 確定申告の流れ](https://support.freee.co.jp/hc/ja/articles/204087130-freee%E4%BC%9A%E8%A8%88%E3%81%A7%E8%A1%8C%E3%81%86%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A%E3%81%AE%E6%B5%81%E3%82%8C)
+  - [freee会計 消費税申告書類の作成手順](https://support.freee.co.jp/hc/ja/articles/25505633888793-freee%E4%BC%9A%E8%A8%88%E3%81%A7%E6%B6%88%E8%B2%BB%E7%A8%8E%E7%94%B3%E5%91%8A%E3%82%92%E8%A1%8C%E3%81%86-%E6%B6%88%E8%B2%BB%E7%A8%8E%E7%94%B3%E5%91%8A%E3%83%A9%E3%82%A4%E3%83%88#h_01HGHHJJQJTT489774FGH2J0VZ)
 
 [「README」に戻る](../README.md#時期別のイベントリスト)
 
