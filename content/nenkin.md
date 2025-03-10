@@ -6,7 +6,10 @@
 </picture>
 
 ## ねんきんネットとは ? 
-- todo
+- 運営 : 日本年金機構
+- できること
+    - 個人の年金記録の確認
+    - 将来の年金見込み金額の確認
 ## ねんきんネットのアカウント作成
 - 参考 : [日本年金機構 マイナポータルからの利用登録方法](https://www.nenkin.go.jp/n_net/registration/mynaportal.html)
 
