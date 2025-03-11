@@ -70,7 +70,8 @@
 [「README」に戻る](../README.md#時期別のイベントリスト)
 
 ## freee会計で所得税と消費税を支払う方法
-- todo
+- 参考サイト
+  - [freee会計 申告した所得税・消費税を納付する](https://support.freee.co.jp/hc/ja/articles/204252790-%E7%94%B3%E5%91%8A%E3%81%97%E3%81%9F%E6%89%80%E5%BE%97%E7%A8%8E-%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%82%92%E7%B4%8D%E4%BB%98%E3%81%99%E3%82%8B#h_01JKW1RM5R3MG474HC785JZ3W7)
 
 [「README」に戻る](../README.md#時期別のイベントリスト)
 
